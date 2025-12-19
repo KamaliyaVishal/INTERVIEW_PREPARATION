@@ -18,17 +18,17 @@
 
 | Part | Topic | Description | Link |
 |------|-------|-------------|------|
-| **PART 1** | ☕ Java | Core Java, OOP, Collections, Multithreading, Java 8-21 Features, Design Patterns, SOLID Principles | [📖 Java Guide](java-interview-guide.md) |
-| **PART 2** | 🍃 Spring Boot | Spring Core, REST API, Spring Data JPA, Security, AOP, Testing, Caching, Messaging | [📖 Spring Boot Guide](spring-boot-interview-guide.md) |
-| **PART 3** | 🔗 Microservices | Architecture, Design Patterns, Communication, Service Discovery, Resilience, Observability, Docker/K8s | [📖 Microservices Guide](microservices-interview-guide.md) |
-| **PART 4** | 🅰️ Angular | Components, Directives, Services, Routing, Forms, RxJS, State Management, Signals | [📖 Angular Guide](angular-interview-guide.md) |
-| **BONUS** | 💡 Interview Tips | Quick Reference, Common Questions, Cheat Sheets, Best Practices | [📖 Interview Tips](interview-tips-quick-reference.md) |
+| **PART 1** | ☕ Java | Core Java, OOP, Collections, Multithreading, Java 8-21 Features, Design Patterns, SOLID Principles | [📖 Java Guide](JAVA-INTERVIEW-GUIDE.md) |
+| **PART 2** | 🍃 Spring Boot | Spring Core, REST API, Spring Data JPA, Security, AOP, Testing, Caching, Messaging | [📖 Spring Boot Guide](SPRING-BOOT-INTERVIEW-GUIDE.md) |
+| **PART 3** | 🔗 Microservices | Architecture, Design Patterns, Communication, Service Discovery, Resilience, Observability, Docker/K8s | [📖 Microservices Guide](MICROSERVICES-INTERVIEW-GUIDE.md) |
+| **PART 4** | 🅰️ Angular | Components, Directives, Services, Routing, Forms, RxJS, State Management, Signals | [📖 Angular Guide](ANGULAR-INTERVIEW-GUIDE.md) |
+| **BONUS** | 💡 Interview Tips | Quick Reference, Common Questions, Cheat Sheets, Best Practices | [📖 Interview Tips](INTERVIEW-TIPS-QUICK-REFERENCE.md) |
 
 ---
 
 ## 🗂️ Quick Navigation
 
-### ☕ [Java Interview Guide](java-interview-guide.md)
+### ☕ [Java Interview Guide](JAVA-INTERVIEW-GUIDE.md)
 
 | Topic | Difficulty |
 |-------|------------|
@@ -46,7 +46,7 @@
 
 ---
 
-### 🍃 [Spring Boot Interview Guide](spring-boot-interview-guide.md)
+### 🍃 [Spring Boot Interview Guide](SPRING-BOOT-INTERVIEW-GUIDE.md)
 
 | Topic | Difficulty |
 |-------|------------|
@@ -63,7 +63,7 @@
 
 ---
 
-### 🔗 [Microservices Interview Guide](microservices-interview-guide.md)
+### 🔗 [Microservices Interview Guide](MICROSERVICES-INTERVIEW-GUIDE.md)
 
 | Topic | Difficulty |
 |-------|------------|
@@ -83,7 +83,7 @@
 
 ---
 
-### 🅰️ [Angular Interview Guide](angular-interview-guide.md)
+### 🅰️ [Angular Interview Guide](ANGULAR-INTERVIEW-GUIDE.md)
 
 | Topic | Difficulty |
 |-------|------------|
@@ -103,7 +103,7 @@
 
 ---
 
-### 💡 [Interview Tips & Quick Reference](interview-tips-quick-reference.md)
+### 💡 [Interview Tips & Quick Reference](INTERVIEW-TIPS-QUICK-REFERENCE.md)
 
 | Section | Content |
 |---------|---------|
@@ -119,25 +119,25 @@
 ## 🎯 Study Path Recommendation
 
 ### For Beginners
-1. Start with [Java Fundamentals](java-interview-guide.md#1-core-java-fundamentals)
-2. Move to [OOP Concepts](java-interview-guide.md#2-object-oriented-programming-oop)
-3. Learn [Collections](java-interview-guide.md#4-collections-framework)
-4. Understand [Spring Core](spring-boot-interview-guide.md#1-spring-core-concepts)
-5. Build REST APIs with [Spring MVC](spring-boot-interview-guide.md#3-spring-mvc--rest-api)
+1. Start with [Java Fundamentals](JAVA-INTERVIEW-GUIDE.md#1-core-java-fundamentals)
+2. Move to [OOP Concepts](JAVA-INTERVIEW-GUIDE.md#2-object-oriented-programming-oop)
+3. Learn [Collections](JAVA-INTERVIEW-GUIDE.md#4-collections-framework)
+4. Understand [Spring Core](SPRING-BOOT-INTERVIEW-GUIDE.md#1-spring-core-concepts)
+5. Build REST APIs with [Spring MVC](SPRING-BOOT-INTERVIEW-GUIDE.md#3-spring-mvc--rest-api)
 
 ### For Intermediate Developers
-1. Deep dive into [Multithreading](java-interview-guide.md#5-multithreading--concurrency)
-2. Master [Java 8+ Features](java-interview-guide.md#6-java-8-features)
-3. Learn [Spring Data JPA](spring-boot-interview-guide.md#4-spring-data-jpa)
-4. Understand [Spring Security](spring-boot-interview-guide.md#5-spring-security)
-5. Start with [Microservices Fundamentals](microservices-interview-guide.md#1-microservices-fundamentals)
+1. Deep dive into [Multithreading](JAVA-INTERVIEW-GUIDE.md#5-multithreading--concurrency)
+2. Master [Java 8+ Features](JAVA-INTERVIEW-GUIDE.md#6-java-8-features)
+3. Learn [Spring Data JPA](SPRING-BOOT-INTERVIEW-GUIDE.md#4-spring-data-jpa)
+4. Understand [Spring Security](SPRING-BOOT-INTERVIEW-GUIDE.md#5-spring-security)
+5. Start with [Microservices Fundamentals](MICROSERVICES-INTERVIEW-GUIDE.md#1-microservices-fundamentals)
 
 ### For Advanced Developers
-1. Study [Microservices Patterns](microservices-interview-guide.md#2-microservices-design-patterns)
-2. Master [Resilience Patterns](microservices-interview-guide.md#9-resilience-patterns)
-3. Learn [Event-Driven Architecture](microservices-interview-guide.md#13-event-driven-architecture)
-4. Understand [State Management](angular-interview-guide.md#10-state-management)
-5. Review [Interview Tips](interview-tips-quick-reference.md)
+1. Study [Microservices Patterns](MICROSERVICES-INTERVIEW-GUIDE.md#2-microservices-design-patterns)
+2. Master [Resilience Patterns](MICROSERVICES-INTERVIEW-GUIDE.md#9-resilience-patterns)
+3. Learn [Event-Driven Architecture](MICROSERVICES-INTERVIEW-GUIDE.md#13-event-driven-architecture)
+4. Understand [State Management](ANGULAR-INTERVIEW-GUIDE.md#10-state-management)
+5. Review [Interview Tips](INTERVIEW-TIPS-QUICK-REFERENCE.md)
 
 ---
 
@@ -156,11 +156,11 @@
 
 ```
 ├── README.md                           # This file - Master Table of Contents
-├── java-interview-guide.md             # Part 1: Java
-├── spring-boot-interview-guide.md      # Part 2: Spring Boot
-├── microservices-interview-guide.md    # Part 3: Microservices
-├── angular-interview-guide.md          # Part 4: Angular
-└── interview-tips-quick-reference.md   # Bonus: Tips & Quick Reference
+├── JAVA-INTERVIEW-GUIDE.md             # Part 1: Java
+├── SPRING-BOOT-INTERVIEW-GUIDE.md      # Part 2: Spring Boot
+├── MICROSERVICES-INTERVIEW-GUIDE.md    # Part 3: Microservices
+├── ANGULAR-INTERVIEW-GUIDE.md          # Part 4: Angular
+└── INTERVIEW-TIPS-QUICK-REFERENCE.md   # Bonus: Tips & Quick Reference
 ```
 
 ---
